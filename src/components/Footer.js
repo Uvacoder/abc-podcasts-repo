@@ -21,7 +21,7 @@ const Footer = () => (
   <Wrapper>
     <p>All thumbnails © of their respective owners.</p>
     <p>
-      Built by <a href="https://twitter.com/raul_dronca">Raul Dronca</a>.
+      Built by <a href="https://twitter.com/Valandscapes">uvacoder</a>.
     </p>
   </Wrapper>
 );
